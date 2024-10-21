@@ -1,0 +1,22 @@
+# Blender 4.2.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl m_c07e4f9e-d2b9-9c1e-9d6e-5e10ddfb0b6e.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/App/minetest-5.9.0-win64/mods/blockbench/knives_holder.png
+
+newmtl m_f5ee5c1e-e6c2-9fae-8eef-8cc4e4921f7a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/App/minetest-5.9.0-win64/mods/blockbench/knives.png
